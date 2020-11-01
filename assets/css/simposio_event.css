@@ -1,0 +1,117 @@
+body {
+  text-align: center;
+  color: #000f08;
+  margin: 0;
+  font-family: "Open Sans", sans-serif;
+}
+
+body * {
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+
+p,
+h1,
+h2 {
+  text-align: left;
+}
+
+h1 {
+    font-weight: 800;
+    font-size: 3.75em;
+    margin-bottom: 0.25em;
+  }
+  
+  h2 {
+    font-weight: 700;
+    font-size: 2.5em;
+  }
+
+nav {
+  text-align: left;
+  padding: 1.25rem 4rem;
+  position: fixed;
+  width: 100vw;
+}
+
+nav li {
+    display: inline-block;
+    margin: 0 1em;
+    list-style-type: none;
+    vertical-align: middle;
+  }
+
+  .oscuro {
+    background: #000f08;
+    color: #ffffff;
+  }
+
+  .icono svg {
+    fill: #ffffff;
+  }
+ 
+  
+
+.simposio-header {
+    padding: 12.25rem 0 0 0;
+    width: 55%;
+    margin: 0 auto;
+  }
+
+.simposio-image{
+    width: 100%;
+    margin: 0 0 4.563rem 0;
+}
+
+.simposio-title{
+    margin: 0 0 4.563rem 0;
+    font-size: 2.813rem;
+}
+
+.section-info {
+    width: 55%;
+    margin: 0 auto;
+  }
+
+.info-p{
+    font-size : 1.563rem;
+}
+
+footer i {
+  margin: 0 0.25em 0.5em 0.25em;
+}
+
+
+
+
+
+
+
+
+.oscuro a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+
+
+.icono {
+  width: 2rem;
+}
+
+
+section,
+footer {
+  margin-top: 4.6875rem;
+}
+
+footer {
+  padding: 3.125rem;
+}
+
+footer p {
+  text-align: center;
+}
+
+
